@@ -5,6 +5,5 @@ function singSong() {
 }
 
 function greet(firstName) {
-  console.log(`firstName is: ${firstName}`);
-  console.log("HI!");
+  console.log(`Hey there, ${firstName}`);
 }
