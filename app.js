@@ -15,3 +15,8 @@ function repeat(str, numTimes) {
   }
   console.log(result);
 }
+
+function add(x, y) {
+  let sum = x + y;
+  return sum;
+}
